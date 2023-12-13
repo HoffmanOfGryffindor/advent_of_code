@@ -58,7 +58,7 @@ class Day1(Solver):
         return locations
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":a
     solver = Day1()
     
     d1_file = "./data/d1p1.txt"
